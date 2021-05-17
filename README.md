@@ -4,6 +4,8 @@ Link do vídeo: <https://youtu.be/LoSuRflerkI>
 
 Link do repositório: <https://github.com/ABMHub/JoaoEstiloDeProgramacao>
 
+Obs: Para usar o programa, os caminhos dos arquivos de texto e o de "stop words" devem ser informados pelo usuário
+
 ## Alunos
 
 - Alexsander Correa de Oliveira - 190023562
